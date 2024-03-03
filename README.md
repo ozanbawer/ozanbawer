@@ -1,4 +1,3 @@
-<img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg" width=2000 height=200 align="center">
 <h1 align="center">Hi 👋, I'm Ozan Baran</h1>
 <h3 align="center">Semi-junior software developer eager to learn from Turkiye</h3>
 
