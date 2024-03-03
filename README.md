@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ozan Baran</h1>
 <h3 align="center">Semi-junior software developer eager to learn from Turkiye</h3>
 
+![Snake animation](https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg)
+
 - 🌱 I’m currently learning **Javascript, Python**
 
 - 📫 How to reach me **ozanbawerbaran@gmail.com**
@@ -21,5 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&" alt="ozanbawer" /></p>
 
 
-![Snake animation](https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg)
+
 
