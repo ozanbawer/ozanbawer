@@ -22,5 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&" alt="ozanbawer" /></p>
 
 
-
+![Snake animation](https://raw.githubusercontent.com/ozanbawer/ozanabwer/output/github-contribution-grid-snake-dark.svg)
 
