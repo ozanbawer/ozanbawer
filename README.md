@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Baran</h1>
 <h3 align="center">Semi-junior new software developer eager to learn from Turkiye</h3>
 
-![Snake animation](https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg)
+[gitartwork](gitartwork.svg)
 
 - 🌱 I’m currently learning **Javascript, Python**
 
