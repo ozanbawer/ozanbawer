@@ -1,21 +1,19 @@
 💻 Frontend & Mobile Developer | 🚀 Learning & Growing
-Merhaba! Ben Ozan 👋 
 
-Yazılım dünyasında yeni bir yolculuğa başladım ve hem web hem de mobil geliştirme alanında kendimi geliştiriyorum.
+Hi! I'm Ozan 👋
+I'm on an exciting journey in the world of software development, focusing on both web and mobile development.
 
-🔹 İlgi Alanlarım:
+🔹 My Interests:
 
-🌐 Frontend Geliştirme (HTML, CSS, JavaScript)
+🌐 Frontend Development (HTML, CSS, JavaScript)
 
-📱 Mobil Geliştirme (Gelecekte React Native)
+📱 Mobile Development (Future plans: React Native)
 
-🛠️ Modern ve kullanıcı dostu arayüzler oluşturmayı seviyorum. 
-Şu an web geliştirme üzerine çalışıyor, ileride mobil uygulamalar geliştirmeyi hedefliyorum.
+🛠️ I enjoy building modern and user-friendly interfaces. Currently, I'm working on web development and aiming to create mobile applications in the future.
 
-🚀 Açık kaynağa katkı sağlamak ve toplulukla öğrenmek benim için önemli!
+🚀 I'm passionate about open source and love learning from the community!
 
-📩 Bana ulaşmak için: ozanbawerbaran@gmail.com
-
+📩 Contact me: ozanbawerbaran@gmail.com
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&" alt="ozanbawer" /></p>
 
 
