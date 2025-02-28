@@ -1,6 +1,7 @@
 💻 Frontend & Mobile Developer | 🚀 Learning & Growing
 
 Hi! I'm Ozan 👋
+
 I'm on an exciting journey in the world of software development, focusing on both web and mobile development.
 
 🔹 My Interests:
