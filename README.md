@@ -15,7 +15,6 @@ I'm on an exciting journey in the world of software development, focusing on bot
 🚀 I'm passionate about open source and love learning from the community!
 
 📩 Contact me: ozanbawerbaran@gmail.com
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&" alt="ozanbawer" /></p>
 
 
 
