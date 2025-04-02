@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=OzanBawer&color=lightgrey)
+
 ![MasterHead](https://github.com/ozanbawer/ozanbawer/blob/main/img/githubbanner.jpg)
 
 <div align="center">
