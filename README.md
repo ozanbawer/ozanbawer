@@ -9,11 +9,11 @@
 
 <!--- <img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=200 height=200 align="right"> --->
 
-<h3 align="center">&nbsp; 💻 Frontend & Mobile Developer | 🚀 Learning & Growing </h3>
+<h2 align="center">&nbsp; 💻 Frontend & Mobile Developer | 🚀 Learning & Growing </h2>
 
-<h4 align="center">&nbsp; I'm on an exciting journey in the world of software development, focusing on both web and mobile development. </h4>
+<h3 align="center">&nbsp; I'm on an exciting journey in the world of software development, focusing on both web and mobile development. </h3>
 
-<h5 align="left">&nbsp; 
+<h3 align="left">&nbsp; 
 
  🔹 My Interests: 
 
@@ -23,11 +23,11 @@
 
 🛠️ I enjoy building modern and user-friendly interfaces. Currently, I'm working on web development and aiming to create mobile applications in the future.
 
-🚀 I'm passionate about open source and love learning from the community! 
+🚀 I'm passionate about open source and love learning from the community! </h3>
 
-<h5 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h5>
+<h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_width=100)](https://github.com/ozanbawer/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats) 
 
 
 <!--
@@ -39,24 +39,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white)
-
+![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
@@ -65,7 +55,13 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=ozanbawer&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
+</picture>
+
 <hr>
-
-
 
