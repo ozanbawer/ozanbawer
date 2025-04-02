@@ -1,12 +1,13 @@
+![](https://komarev.com/ghpvc/?username=OzanBawer&color=lightgrey)
 ![MasterHead](https://github.com/ozanbawer/ozanbawer/blob/main/img/githubbanner.jpg)
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ <a href="https://github.com/OzanBawer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%93+Ozan+Baran;%f0%9f%92%bb+Jr+Software+Developer;%f0%9f%8e%89+Welcome+To+My+Profile+%f0%9f%8e%89" alt="Typing SVG" />
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt3NXE1OWJmYXM3cXA1YXgwYnR6aDdsZmh4czlvdnNjZjM4NmxudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif)" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
