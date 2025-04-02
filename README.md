@@ -7,8 +7,7 @@
  </a>
 </div>
 
-<img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=300 height=200 align="right">
-
+<!--- <img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=200 height=200 align="right"> --->
 
 <h3 align="center">&nbsp; 💻 Frontend & Mobile Developer | 🚀 Learning & Growing </h3>
 
@@ -27,6 +26,8 @@
 🚀 I'm passionate about open source and love learning from the community! 
 
 <h5 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h5>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_width=100)](https://github.com/ozanbawer/github-readme-stats) 
 
 
 <!--
@@ -59,68 +60,12 @@
 
 
 
-# Github Stats
-
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
-
+# 📈 Github Stats
 
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ozanbawer&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<hr>
 
 
-<br />
 
-
-<br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
