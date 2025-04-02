@@ -3,7 +3,7 @@
 
 <div align="center">
  <a href="https://github.com/OzanBawer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%93+Ozan+Baran;%f0%9f%92%bb+Jr+Software+Developer;%f0%9f%8e%89+Welcome+To+My+Profile+%f0%9f%8e%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=249059FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%93+Ozan+Baran;%f0%9f%92%bb+Jr+Software+Developer;%f0%9f%8e%89+Welcome+To+My+Profile+%f0%9f%8e%89" alt="Typing SVG" />
  </a>
 </div>
 
@@ -13,10 +13,12 @@
 
 <h3 align="center">&nbsp; I'm on an exciting journey in the world of software development, focusing on both web and mobile development. </h3>
 
+<h3 align="center">&nbsp; 
+
+   🔹 My Interests: </h3>
+   
 <h3 align="left">&nbsp; 
-
- 🔹 My Interests: 
-
+ 
  🌐 Frontend Development (HTML, CSS, JavaScript)
 
 📱 Mobile Development (Future plans: React Native)
@@ -27,13 +29,13 @@
 
 <h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats) 
+<br>
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats)--->
+ <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="44%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
 
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
+<br>
+
 # 💻 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
