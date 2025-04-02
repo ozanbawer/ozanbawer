@@ -7,28 +7,34 @@
  </a>
 </div>
 
-<img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt3NXE1OWJmYXM3cXA1YXgwYnR6aDdsZmh4czlvdnNjZjM4NmxudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif)" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/work-computer.gif" alt="Coding" width=300 height=200 align="left">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="center">&nbsp; 💻 Frontend & Mobile Developer | 🚀 Learning & Growing </h3>
 
-- 🔭 I’m currently working on **React**
+<h4 align="center">&nbsp; I'm on an exciting journey in the world of software development, focusing on both web and mobile development. </h4>
 
-- 💬 Ask me about **Blockchain**
+<h4 align="left">&nbsp; 
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+<br><br><br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
+ 
+ 🔹 My Interests: 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
+ 🌐 Frontend Development (HTML, CSS, JavaScript)
+
+📱 Mobile Development (Future plans: React Native)
+
+🛠️ I enjoy building modern and user-friendly interfaces. Currently, I'm working on web development and aiming to create mobile applications in the future.
+
+🚀 I'm passionate about open source and love learning from the community! </h4>
+
+📩 Contact me: ozanbawerbaran@gmail.com 
+
+
+
+
+
 
 
 
