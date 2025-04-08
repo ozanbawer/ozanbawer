@@ -19,7 +19,7 @@
    
 <h3 align="left">&nbsp; 
  
- 🌐 Frontend Development (HTML, CSS, JavaScript)
+ 🌐 Frontend Development (HTML, CSS, JavaScript,Node.JS,React)
 
 📱 Mobile Development (Future plans: React Native)
 
