@@ -27,12 +27,9 @@
 
 🚀 I'm passionate about open source and love learning from the community! </h3>
 
-<h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4>
+<h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4> 
 
-<br>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats)--->
- <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="44%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
+<h3 align="center">&nbsp;   🌍 My Web Page: => https://ozanbaran.com.tr  </h3> 
 
 <br>
 
@@ -54,16 +51,22 @@
 
 # 📈 Github Stats
 
-<br />
+
+<br>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats)--->
+ <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="44%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
+
+<br>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=ozanbawer&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozanbawer/ozanbawer/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br>
 <hr>
 
