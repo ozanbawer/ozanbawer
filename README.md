@@ -2,32 +2,27 @@
 ![MasterHead](https://github.com/ozanbawer/ozanbawer/blob/main/img/githubbanner.jpg)
 
 <div align="center">
- <a href="https://github.com/OzanBawer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=249059FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%93+Ozan+Baran;%f0%9f%92%bb+Jr+Software+Developer;%f0%9f%8e%89+Welcome+To+My+Profile+%f0%9f%8e%89" alt="Typing SVG" />
- </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=4E88F7&center=true&vCenter=true&width=500&lines=Ozan+Baran;Geological+Engineer+(MSc)+;Aspiring+Data+Analyst" alt="Typing SVG" /></a>
+
 </div>
 
 <!--- <img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=200 height=200 align="right"> --->
 
-<h2 align="center">&nbsp; 💻 Frontend & Mobile Developer | 🚀 Learning & Growing </h2>
+<h2 align="center">&nbsp; 💻 Veriyi Anlayan Mühendis | Jeoloji Yüksek Mühendisi & Veri Analisti Adayı </h2>
 
-<h3 align="center">&nbsp; I'm on an exciting journey in the world of software development, focusing on both web and mobile development. </h3>
+<h3 align="center">&nbsp; Bir Jeoloji Yüksek Mühendisi olarak yıllarca yer altındaki karmaşık verileri yorumladım. Şimdi ise bu yorumlama yeteneğimi, Veri Analisti olarak dijital veriler üzerinde kullanıyorum. Amacım; ham veriyi işleyerek anlamlı, karar vermeyi kolaylaştıran içgörülere dönüştürmek. </h3>
 
-<h3 align="center">&nbsp; 
-
-   🔹 My Interests: </h3>
-   
 <h3 align="left">&nbsp; 
  
- 🌐 Frontend Development (HTML, CSS, JavaScript, React.JS)
- 
- 🌐 Backend Development (Node.JS)
+ Odaklandığım ve Geliştirdiğim Yetkinlikler:
 
-📱 Mobile Development (Future plans: React Native)
+Programlama: Python (NumPy, Pandas)
 
-🛠️ I enjoy building modern and user-friendly interfaces. Currently, I'm working on web development and aiming to create mobile applications in the future.
+Veri Yönetimi & Analiz: SQL, Veri Temizleme ve Manipülasyon
 
-🚀 I'm passionate about open source and love learning from the community! </h3>
+Görselleştirme & GIS: ArcGIS, Power BI (Öğrenim sürecinde), Matplotlib
+
+Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 
 <h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4> 
 
