@@ -31,6 +31,20 @@ Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 <br>
 
 # 💻 Languages and Tools:
+
+<h3 align="center">&nbsp;   Data Analyst Languages and Tools  </h3> 
+
+![Static Badge](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=for-the-badge&logo=PostgreSQL&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/arcgis-arcgis?style=for-the-badge&logo=arcgis&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/QGIS-QGIS?style=for-the-badge&logo=QGIS&labelColor=gray&color=blue)
+
+
+
+
+
+<h3 align="center">&nbsp;   FrontEnd Languages and Tools  </h3> 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -38,12 +52,12 @@ Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white) 
+
+<h3 align="center">&nbsp;   Other Tools  </h3> 
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-
 
 
 # 📈 Github Stats
@@ -51,8 +65,7 @@ Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 
 <br>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true_aligin=center)](https://github.com/ozanbawer/github-readme-stats)--->
- <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbawer&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="44%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
+<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
 
 <br>
 
