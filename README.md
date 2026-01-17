@@ -40,6 +40,7 @@ Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 ![Static Badge](https://img.shields.io/badge/QGIS-QGIS?style=for-the-badge&logo=QGIS&labelColor=gray&color=blue)
 ![Static Badge](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800)
 
+![Static Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
