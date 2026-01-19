@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=OzanBawer&color=lightgrey)
-![MasterHead](https://github.com/ozanbawer/ozanbawer/blob/main/img/linkeidn.jpg)
+![MasterHead](https://github.com/ozanbawer/ozanbawer/blob/main/img/linkeidn.png)
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=4E88F7&center=true&vCenter=true&width=500&lines=Ozan+Baran;Geological+Engineer+(MSc)+;Aspiring+Data+Analyst" alt="Typing SVG" /></a>
