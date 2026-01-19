@@ -8,7 +8,7 @@
 
 <!--- <img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=200 height=200 align="right"> --->
 
-<h2 align="center">&nbsp; 💻 Veriyi Anlayan Mühendis | Jeoloji Yüksek Mühendisi & Veri Analisti Adayı </h2>
+<h2 align="center">&nbsp; 💻 Veriyi Anlayan Mühendis | Jeoloji Yüksek Mühendisi & Veri Analisti </h2>
 
 <h3 align="center">&nbsp; Bir Jeoloji Yüksek Mühendisi olarak yıllarca yer altındaki karmaşık verileri yorumladım. Şimdi ise bu yorumlama yeteneğimi, Veri Analisti olarak dijital veriler üzerinde kullanıyorum. Amacım; ham veriyi işleyerek anlamlı, karar vermeyi kolaylaştıran içgörülere dönüştürmek. </h3>
 
