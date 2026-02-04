@@ -8,25 +8,37 @@
 
 <!--- <img src="https://github.com/ozanbawer/ozanbawer/blob/main/img/code-coding.gif" alt="Coding" width=200 height=200 align="right"> --->
 
-<h2 align="center">&nbsp; 💻 Veriyi Anlayan Mühendis | Jeoloji Yüksek Mühendisi & Veri Analisti </h2>
+<h1 align="center">Hi there, I'm Ozan 👋</h1>
 
-<h3 align="center">&nbsp; Bir Jeoloji Yüksek Mühendisi olarak yıllarca yer altındaki karmaşık verileri yorumladım. Şimdi ise bu yorumlama yeteneğimi, Veri Analisti olarak dijital veriler üzerinde kullanıyorum. Amacım; ham veriyi işleyerek anlamlı, karar vermeyi kolaylaştıran içgörülere dönüştürmek. </h3>
 
-<h3 align="left">&nbsp; 
- 
- Odaklandığım ve Geliştirdiğim Yetkinlikler:
+<p align="center">
+  <em>Bridging the gap between Earth Sciences and Data Analytics.</em>
+</p>
 
-Programlama: Python (NumPy, Pandas)
+<br>
 
-Veri Yönetimi & Analiz: SQL, Veri Temizleme ve Manipülasyon
+<p align="center">
+  As an <strong>MSc Geological Engineer</strong>, I spent years interpreting complex subsurface data to solve real-world problems. Now, I leverage that same <strong>analytical mindset</strong> as a Data Analyst to transform raw digital data into actionable strategic insights.
+  <br><br>
+  My goal is simple: <strong>To make data speak, just as I made the rocks speak.</strong>
+</p>
 
-Görselleştirme & GIS: ArcGIS, Power BI (Öğrenim sürecinde), Matplotlib
+<hr>
 
-Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
+### 🛠️ Core Competencies & Tech Stack
 
-<h4 align="center">&nbsp;   📩 Contact me: ozanbawerbaran@gmail.com </h4> 
+* **🐍 Programming:** Python (Pandas, NumPy, Matplotlib)
+* **🗄️ Data Management:** SQL (PostgreSQL), Data Cleaning & Manipulation
+* **🗺️ Visualization & GIS:** ArcGIS, QGIS, Power BI (Currently Learning), Matplotlib
+* **🧠 Key Skills:** Analytical Thinking, Problem Solving, Technical Reporting
 
-<h3 align="center">&nbsp;   🌍 My Web Page: => https://ozanbaran.com.tr  </h3> 
+<hr>
+
+<p align="center">
+  📫 <strong>Contact me:</strong> <a href="mailto:ozanbawerbaran@gmail.com">ozanbawerbaran@gmail.com</a>
+  <br>
+  🌐 <strong>My Website:</strong> <a href="https://ozanbaran.com.tr" target="_blank">ozanbaran.com.tr</a>
+</p>
 
 <br>
 
@@ -61,14 +73,6 @@ Yetenekler: Analitik Düşünme, Problem Çözme, Raporlama </h3>
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 # 📈 Github Stats
-
-
-<br>
-
-<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbawer&theme=vue-dark&hide_border=false"  width="52%"></a>
-
-<br>
-
 
 ![](https://github-profile-trophy.vercel.app/?username=ozanbawer&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
